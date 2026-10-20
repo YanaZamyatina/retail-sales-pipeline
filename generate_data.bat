@@ -1,0 +1,1 @@
+C:\путь_к_проекту\retail-sales-pipeline\venv\Scripts\python.exe C:\путь_к_проекту\retail-sales-pipeline\generate_sales_data.py
